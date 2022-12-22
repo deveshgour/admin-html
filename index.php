@@ -11,7 +11,7 @@
 <body>
     <?php include('include/header.php'); ?>
     <main class="mainContent authPage">
-     
+        
     
     </main>
     <?php include('include/footer.php') ?>
